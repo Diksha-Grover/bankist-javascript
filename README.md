@@ -1,7 +1,7 @@
 ## **<h2 align="center">Front end application  💻</h2>**
 
 
-# 💸 Banskist
+# 💸 Bankist
 
 <h1 align="center">
     <img src="github/main.JPG"/>
@@ -17,9 +17,6 @@ User : jd <br/>
 Password : 2222
 
 ---
-
-
-:key: Take a look --> https://victorlira-dev.github.io/Bankist/
 
 
 ## :rocket: Technologies used:
