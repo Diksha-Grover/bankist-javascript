@@ -41,6 +41,3 @@ Password : 2222
 
 this project was developed in The Complete JavaScript Course 2021: From Zero to Expert! couse 
 https://www.udemy.com/course/the-complete-javascript-course/
-
-Created by **Jonas Schmedtmann** <br>
-Developed by **Victor Lira**
